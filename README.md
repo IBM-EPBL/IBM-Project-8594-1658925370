@@ -11,39 +11,60 @@ Team Leader: Surya V
 Team Members:Pradeep T.R, Sanjay D, Sunil S
 
 Tasks
+
 *Pre-development
+
  Ideation Phase:-
+ 
  Literature Survey
+ 
  Problem Statement
+ 
  Empathy Map
+ 
  Brainstorm
  
 *Project Design phases
  
 Project Design Phase 1
+
  Proposed Solution
+ 
  Problem-Solution AI
+ 
  Solution Architecture
  
 Project Design Phase 2
+
  Customer Journey Maps
+ 
  Data Flow Diagrams and user stories
+ 
  Solution Requirements
+ 
  Technology Stack
  
 *Project Planning Phase
+
  Milestone & Activity List
+ 
  Sprint Delivery Plan
+ 
  Sprints
 
 Assignments
+
  Assignment 1
+ 
  Assignment 2
+ 
  Assignment 3
+ 
  Assignment 4
  
  
 About The Project
+
 Project Description:
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
