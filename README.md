@@ -1,5 +1,4 @@
 TECHNOLOGY:Artificial Intelligence
-
 Team ID:PNT2022MID38077
 
 # IBM-Project-8594-1658925370
@@ -11,12 +10,13 @@ Team Leader: Surya V
 Team Members:Pradeep T.R, Sanjay D, Sunil S
 
 Tasks
+
 *Pre-development
  Ideation Phase:-
- Literature Survey
- Problem Statement
- Empathy Map
- Brainstorm
+  Literature Survey
+  Problem Statement
+  Empathy Map
+  Brainstorm
  
 *Project Design phases
  
@@ -32,9 +32,9 @@ Project Design Phase 2
  Technology Stack
  
 *Project Planning Phase
- Milestone & Activity List
- Sprint Delivery Plan
- Sprints
+  Milestone & Activity List
+  Sprint Delivery Plan
+  Sprints
 
 Assignments
  Assignment 1
@@ -44,6 +44,7 @@ Assignments
  
  
 About The Project
+
 Project Description:
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
