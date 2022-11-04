@@ -1,8 +1,13 @@
 TECHNOLOGY:Artificial Intelligence
+
 Team ID:PNT2022MID38077
+
 # IBM-Project-8594-1658925370
+
 AI based discourse for Banking Industry
+
 Team Leader: Surya V
+
 Team Members:Pradeep T.R, Sanjay D, Sunil S
 
 Tasks
