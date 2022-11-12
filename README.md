@@ -18,7 +18,7 @@ Tasks
  
      Literature Survey
  
-     Problem Statement
+     Problem statement
  
      Empathy Map
  
