@@ -7,7 +7,7 @@
 - Added Tone Analyzer
 - Changed engine to Node v6.x
 
-## nov 2, 2022
+## Nov 2, 2022
 - Change engine to Node v4.2
 - Change express version to 4.13
 
