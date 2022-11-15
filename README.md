@@ -14,35 +14,35 @@ Tasks
 
 *Pre-development
 
-    Ideation Phase:-
+    Ideation phase:
  
-     Literature Survey
+     Literature survey
  
      Problem statement
  
-     Empathy Map
+     Empathy map
  
-     Brainstorm
+     Brainstorming
  
 *Project Design phases
  
-    Project Design Phase 1
+    Project design phase 1:
 
-     Proposed Solution
+     Proposed solution
  
-     Problem-Solution AI
+     Problem solution AI
  
-     Solution Architecture
+     Solution architecture
  
-    Project Design Phase 2
+    Project design phase 2:
 
-     Customer Journey Maps
+     Customer journey maps
  
-     Data Flow Diagrams and user stories
+     Data flow diagrams and users stories
  
-     Solution Requirements
+     Solution requirments
  
-     Technology Stack
+     Technology stack
  
 *Project Planning Phase
 
