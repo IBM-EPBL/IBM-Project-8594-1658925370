@@ -10,6 +10,8 @@ Team Leader: Surya V
 
 Team Members:Pradeep T.R, Sanjay D, Sunil S
 
+Project link : https://github.com/IBM-EPBL/IBM-Project-8594-1658925370/blob/main/Other%20Documents/AI%20BASED%20CHATBOT.pdf
+
 Tasks
 
 *Pre-development
