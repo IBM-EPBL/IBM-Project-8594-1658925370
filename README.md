@@ -10,7 +10,7 @@ Team Leader: Surya V
 
 Team Members:Pradeep T.R, Sanjay D, Sunil S
 
-Project report link : https://github.com/IBM-EPBL/IBM-Project-8594-1658925370/blob/main/Other%20Documents/AI%20BASED%20CHATBOT.pdf
+Project report link : https://github.com/IBM-EPBL/IBM-Project-8594-1658925370/blob/main/Other%20Documents/AI%20BASED%20CHATBOT%202.pdf
 
 Demo video link : https://github.com/IBM-EPBL/IBM-Project-8594-1658925370/blob/main/Final%20Delivarables/watson-banking-chatbot-master/FInal%20demo%20video.mp4
 
